@@ -77,7 +77,7 @@ The model was trained using a custom dataset containing car images labeled with 
 You can find the training code in:
 
 ```
-Model_Training/train_model.ipynb
+Model_Training/car_damage_detection.ipynb
 ```
 
 The trained model is saved as:
